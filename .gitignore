@@ -1,1 +1,9 @@
 node_modules
+.idea/$CACHE_FILE$
+.idea/.gitignore
+.idea/inspectionProfiles/
+.idea/js-testing-introduction.iml
+.idea/jsLibraryMappings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
